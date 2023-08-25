@@ -15,7 +15,7 @@ class polymorphismClass{
 
         // Function with same name but 2 int parameters
         void funct(int x, int y) {
-            cout << "value of x and y is : \nx= " << x  << ", y= " << y <<endl;
+            cout << "value of x and y is: \nx= " << x  << ", y= " << y <<endl;
         }
 };
 

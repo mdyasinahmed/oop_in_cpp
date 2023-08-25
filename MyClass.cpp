@@ -9,7 +9,7 @@ class MyClass {     // the class
 };
 
 int main() {
-    MyClass myObj;
+    MyClass myObj; // creating and object of MyClass to call the Constructor
 
     return 0;
 }

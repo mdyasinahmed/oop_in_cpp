@@ -16,8 +16,8 @@ namespace second_space {
     }
 }
 
-//using namespace first_space;
-using namespace second_space;
+using namespace first_space;
+//using namespace second_space;
 
 int main() {
     // This calls the function from the first name space.

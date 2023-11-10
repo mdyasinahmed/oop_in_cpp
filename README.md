@@ -1,6 +1,6 @@
 # Object Oriented Programming with C++
 
-## Topic Covered :
+## Topic Covered:
   * [x] Class and Object
   * [x] Inheritance
   * [x] Polymorphism
